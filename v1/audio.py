@@ -7,11 +7,6 @@ nepali_letters = ['अ', 'आ', 'इ', 'ई', 'उ', 'ऊ', 'ऋ', 'ए', 'ऐ',
 
 
 
-# Export the combined audio to a temporary WAV file
-combined_audio.export(
-    r"C:\Users\aryal\OneDrive\Desktop\voice model\v1\temp\combined_temp.wav", format="wav")
-
-
 # Initialize pygame
 pygame.init()
 

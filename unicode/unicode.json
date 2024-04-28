@@ -1,0 +1,1522 @@
+[
+    {
+        "letter": "अ",
+        "unicode": "\\u0001"
+    },
+    {
+        "letter": "आ",
+        "unicode": "\\u0002"
+    },
+    {
+        "letter": "इ",
+        "unicode": "\\u0003"
+    },
+    {
+        "letter": "ई",
+        "unicode": "\\u0004"
+    },
+    {
+        "letter": "उ",
+        "unicode": "\\u0005"
+    },
+    {
+        "letter": "ऊ",
+        "unicode": "\\u0006"
+    },
+    {
+        "letter": "ए",
+        "unicode": "\\u0007"
+    },
+    {
+        "letter": "ऐ",
+        "unicode": "\\u0008"
+    },
+    {
+        "letter": "ओ",
+        "unicode": "\\u0009"
+    },
+    {
+        "letter": "औ",
+        "unicode": "\\u000A"
+    },
+    {
+        "letter": "क",
+        "unicode": "\\u000B"
+    },
+    {
+        "letter": "का",
+        "unicode": "\\u000C"
+    },
+    {
+        "letter": "कि",
+        "unicode": "\\u000D"
+    },
+    {
+        "letter": "की",
+        "unicode": "\\u000E"
+    },
+    {
+        "letter": "कु",
+        "unicode": "\\u000F"
+    },
+    {
+        "letter": "कू",
+        "unicode": "\\u0010"
+    },
+    {
+        "letter": "के",
+        "unicode": "\\u0011"
+    },
+    {
+        "letter": "कै",
+        "unicode": "\\u0012"
+    },
+    {
+        "letter": "को",
+        "unicode": "\\u0013"
+    },
+    {
+        "letter": "कौ",
+        "unicode": "\\u0014"
+    },
+    {
+        "letter": "ख",
+        "unicode": "\\u0015"
+    },
+    {
+        "letter": "खा",
+        "unicode": "\\u0016"
+    },
+    {
+        "letter": "खि",
+        "unicode": "\\u0017"
+    },
+    {
+        "letter": "खी",
+        "unicode": "\\u0018"
+    },
+    {
+        "letter": "खु",
+        "unicode": "\\u0019"
+    },
+    {
+        "letter": "खू",
+        "unicode": "\\u001A"
+    },
+    {
+        "letter": "खे",
+        "unicode": "\\u001B"
+    },
+    {
+        "letter": "खै",
+        "unicode": "\\u001C"
+    },
+    {
+        "letter": "खो",
+        "unicode": "\\u001D"
+    },
+    {
+        "letter": "खौ",
+        "unicode": "\\u001E"
+    },
+    {
+        "letter": "ग",
+        "unicode": "\\u001F"
+    },
+    {
+        "letter": "गा",
+        "unicode": "\\u0020"
+    },
+    {
+        "letter": "गि",
+        "unicode": "\\u0021"
+    },
+    {
+        "letter": "गी",
+        "unicode": "\\u0022"
+    },
+    {
+        "letter": "गु",
+        "unicode": "\\u0023"
+    },
+    {
+        "letter": "गू",
+        "unicode": "\\u0024"
+    },
+    {
+        "letter": "गे",
+        "unicode": "\\u0025"
+    },
+    {
+        "letter": "गै",
+        "unicode": "\\u0026"
+    },
+    {
+        "letter": "गो",
+        "unicode": "\\u0027"
+    },
+    {
+        "letter": "गौ",
+        "unicode": "\\u0028"
+    },
+    {
+        "letter": "घ",
+        "unicode": "\\u0029"
+    },
+    {
+        "letter": "घा",
+        "unicode": "\\u002A"
+    },
+    {
+        "letter": "घि",
+        "unicode": "\\u002B"
+    },
+    {
+        "letter": "घी",
+        "unicode": "\\u002C"
+    },
+    {
+        "letter": "घु",
+        "unicode": "\\u002D"
+    },
+    {
+        "letter": "घू",
+        "unicode": "\\u002E"
+    },
+    {
+        "letter": "घे",
+        "unicode": "\\u002F"
+    },
+    {
+        "letter": "घै",
+        "unicode": "\\u0030"
+    },
+    {
+        "letter": "घो",
+        "unicode": "\\u0031"
+    },
+    {
+        "letter": "घौ",
+        "unicode": "\\u0032"
+    },
+    {
+        "letter": "ङ",
+        "unicode": "\\u0033"
+    },
+    {
+        "letter": "ङा",
+        "unicode": "\\u0034"
+    },
+    {
+        "letter": "ङि",
+        "unicode": "\\u0035"
+    },
+    {
+        "letter": "ङी",
+        "unicode": "\\u0036"
+    },
+    {
+        "letter": "ङु",
+        "unicode": "\\u0037"
+    },
+    {
+        "letter": "ङू",
+        "unicode": "\\u0038"
+    },
+    {
+        "letter": "ङे",
+        "unicode": "\\u0039"
+    },
+    {
+        "letter": "ङै",
+        "unicode": "\\u003A"
+    },
+    {
+        "letter": "ङो",
+        "unicode": "\\u003B"
+    },
+    {
+        "letter": "ङौ",
+        "unicode": "\\u003C"
+    },
+    {
+        "letter": "च",
+        "unicode": "\\u003D"
+    },
+    {
+        "letter": "चा",
+        "unicode": "\\u003E"
+    },
+    {
+        "letter": "चि",
+        "unicode": "\\u003F"
+    },
+    {
+        "letter": "ची",
+        "unicode": "\\u0040"
+    },
+    {
+        "letter": "चु",
+        "unicode": "\\u0041"
+    },
+    {
+        "letter": "चू",
+        "unicode": "\\u0042"
+    },
+    {
+        "letter": "चे",
+        "unicode": "\\u0043"
+    },
+    {
+        "letter": "चै",
+        "unicode": "\\u0044"
+    },
+    {
+        "letter": "चो",
+        "unicode": "\\u0045"
+    },
+    {
+        "letter": "चौ",
+        "unicode": "\\u0046"
+    },
+    {
+        "letter": "छ",
+        "unicode": "\\u0047"
+    },
+    {
+        "letter": "छा",
+        "unicode": "\\u0048"
+    },
+    {
+        "letter": "छि",
+        "unicode": "\\u0049"
+    },
+    {
+        "letter": "छी",
+        "unicode": "\\u004A"
+    },
+    {
+        "letter": "छु",
+        "unicode": "\\u004B"
+    },
+    {
+        "letter": "छू",
+        "unicode": "\\u004C"
+    },
+    {
+        "letter": "छे",
+        "unicode": "\\u004D"
+    },
+    {
+        "letter": "छै",
+        "unicode": "\\u004E"
+    },
+    {
+        "letter": "छो",
+        "unicode": "\\u004F"
+    },
+    {
+        "letter": "छौ",
+        "unicode": "\\u0050"
+    },
+    {
+        "letter": "ज",
+        "unicode": "\\u0051"
+    },
+    {
+        "letter": "जा",
+        "unicode": "\\u0052"
+    },
+    {
+        "letter": "जि",
+        "unicode": "\\u0053"
+    },
+    {
+        "letter": "जी",
+        "unicode": "\\u0054"
+    },
+    {
+        "letter": "जु",
+        "unicode": "\\u0055"
+    },
+    {
+        "letter": "जू",
+        "unicode": "\\u0056"
+    },
+    {
+        "letter": "जे",
+        "unicode": "\\u0057"
+    },
+    {
+        "letter": "जै",
+        "unicode": "\\u0058"
+    },
+    {
+        "letter": "जो",
+        "unicode": "\\u0059"
+    },
+    {
+        "letter": "जौ",
+        "unicode": "\\u005A"
+    },
+    {
+        "letter": "झ",
+        "unicode": "\\u005B"
+    },
+    {
+        "letter": "झा",
+        "unicode": "\\u005C"
+    },
+    {
+        "letter": "झि",
+        "unicode": "\\u005D"
+    },
+    {
+        "letter": "झी",
+        "unicode": "\\u005E"
+    },
+    {
+        "letter": "झु",
+        "unicode": "\\u005F"
+    },
+    {
+        "letter": "झू",
+        "unicode": "\\u0060"
+    },
+    {
+        "letter": "झे",
+        "unicode": "\\u0061"
+    },
+    {
+        "letter": "झै",
+        "unicode": "\\u0062"
+    },
+    {
+        "letter": "झो",
+        "unicode": "\\u0063"
+    },
+    {
+        "letter": "झौ",
+        "unicode": "\\u0064"
+    },
+    {
+        "letter": "ञ",
+        "unicode": "\\u0065"
+    },
+    {
+        "letter": "ञा",
+        "unicode": "\\u0066"
+    },
+    {
+        "letter": "ञि",
+        "unicode": "\\u0067"
+    },
+    {
+        "letter": "ञी",
+        "unicode": "\\u0068"
+    },
+    {
+        "letter": "ञु",
+        "unicode": "\\u0069"
+    },
+    {
+        "letter": "ञू",
+        "unicode": "\\u006A"
+    },
+    {
+        "letter": "ञे",
+        "unicode": "\\u006B"
+    },
+    {
+        "letter": "ञै",
+        "unicode": "\\u006C"
+    },
+    {
+        "letter": "ञो",
+        "unicode": "\\u006D"
+    },
+    {
+        "letter": "ञौ",
+        "unicode": "\\u006E"
+    },
+    {
+        "letter": "ट",
+        "unicode": "\\u006F"
+    },
+    {
+        "letter": "टा",
+        "unicode": "\\u0070"
+    },
+    {
+        "letter": "टि",
+        "unicode": "\\u0071"
+    },
+    {
+        "letter": "टी",
+        "unicode": "\\u0072"
+    },
+    {
+        "letter": "टु",
+        "unicode": "\\u0073"
+    },
+    {
+        "letter": "टू",
+        "unicode": "\\u0074"
+    },
+    {
+        "letter": "टे",
+        "unicode": "\\u0075"
+    },
+    {
+        "letter": "टै",
+        "unicode": "\\u0076"
+    },
+    {
+        "letter": "टो",
+        "unicode": "\\u0077"
+    },
+    {
+        "letter": "टौ",
+        "unicode": "\\u0078"
+    },
+    {
+        "letter": "ठ",
+        "unicode": "\\u0079"
+    },
+    {
+        "letter": "ठा",
+        "unicode": "\\u007A"
+    },
+    {
+        "letter": "ठि",
+        "unicode": "\\u007B"
+    },
+    {
+        "letter": "ठी",
+        "unicode": "\\u007C"
+    },
+    {
+        "letter": "ठु",
+        "unicode": "\\u007D"
+    },
+    {
+        "letter": "ठू",
+        "unicode": "\\u007E"
+    },
+    {
+        "letter": "ठे",
+        "unicode": "\\u007F"
+    },
+    {
+        "letter": "ठै",
+        "unicode": "\\u0080"
+    },
+    {
+        "letter": "ठो",
+        "unicode": "\\u0081"
+    },
+    {
+        "letter": "ठौ",
+        "unicode": "\\u0082"
+    },
+    {
+        "letter": "ड",
+        "unicode": "\\u0083"
+    },
+    {
+        "letter": "डा",
+        "unicode": "\\u0084"
+    },
+    {
+        "letter": "डि",
+        "unicode": "\\u0085"
+    },
+    {
+        "letter": "डी",
+        "unicode": "\\u0086"
+    },
+    {
+        "letter": "डु",
+        "unicode": "\\u0087"
+    },
+    {
+        "letter": "डू",
+        "unicode": "\\u0088"
+    },
+    {
+        "letter": "डे",
+        "unicode": "\\u0089"
+    },
+    {
+        "letter": "डै",
+        "unicode": "\\u008A"
+    },
+    {
+        "letter": "डो",
+        "unicode": "\\u008B"
+    },
+    {
+        "letter": "डौ",
+        "unicode": "\\u008C"
+    },
+    {
+        "letter": "ढ",
+        "unicode": "\\u008D"
+    },
+    {
+        "letter": "ढा",
+        "unicode": "\\u008E"
+    },
+    {
+        "letter": "ढि",
+        "unicode": "\\u008F"
+    },
+    {
+        "letter": "ढी",
+        "unicode": "\\u0090"
+    },
+    {
+        "letter": "ढु",
+        "unicode": "\\u0091"
+    },
+    {
+        "letter": "ढू",
+        "unicode": "\\u0092"
+    },
+    {
+        "letter": "ढे",
+        "unicode": "\\u0093"
+    },
+    {
+        "letter": "ढै",
+        "unicode": "\\u0094"
+    },
+    {
+        "letter": "ढो",
+        "unicode": "\\u0095"
+    },
+    {
+        "letter": "ढौ",
+        "unicode": "\\u0096"
+    },
+    {
+        "letter": "ण",
+        "unicode": "\\u0097"
+    },
+    {
+        "letter": "णा",
+        "unicode": "\\u0098"
+    },
+    {
+        "letter": "णि",
+        "unicode": "\\u0099"
+    },
+    {
+        "letter": "णी",
+        "unicode": "\\u009A"
+    },
+    {
+        "letter": "णु",
+        "unicode": "\\u009B"
+    },
+    {
+        "letter": "णू",
+        "unicode": "\\u009C"
+    },
+    {
+        "letter": "णे",
+        "unicode": "\\u009D"
+    },
+    {
+        "letter": "णै",
+        "unicode": "\\u009E"
+    },
+    {
+        "letter": "णो",
+        "unicode": "\\u009F"
+    },
+    {
+        "letter": "णौ",
+        "unicode": "\\u00A0"
+    },
+    {
+        "letter": "त",
+        "unicode": "\\u00A1"
+    },
+    {
+        "letter": "ता",
+        "unicode": "\\u00A2"
+    },
+    {
+        "letter": "ति",
+        "unicode": "\\u00A3"
+    },
+    {
+        "letter": "ती",
+        "unicode": "\\u00A4"
+    },
+    {
+        "letter": "तु",
+        "unicode": "\\u00A5"
+    },
+    {
+        "letter": "तू",
+        "unicode": "\\u00A6"
+    },
+    {
+        "letter": "ते",
+        "unicode": "\\u00A7"
+    },
+    {
+        "letter": "तै",
+        "unicode": "\\u00A8"
+    },
+    {
+        "letter": "तो",
+        "unicode": "\\u00A9"
+    },
+    {
+        "letter": "तौ",
+        "unicode": "\\u00AA"
+    },
+    {
+        "letter": "थ",
+        "unicode": "\\u00AB"
+    },
+    {
+        "letter": "था",
+        "unicode": "\\u00AC"
+    },
+    {
+        "letter": "थि",
+        "unicode": "\\u00AD"
+    },
+    {
+        "letter": "थी",
+        "unicode": "\\u00AE"
+    },
+    {
+        "letter": "थु",
+        "unicode": "\\u00AF"
+    },
+    {
+        "letter": "थू",
+        "unicode": "\\u00B0"
+    },
+    {
+        "letter": "थे",
+        "unicode": "\\u00B1"
+    },
+    {
+        "letter": "थै",
+        "unicode": "\\u00B2"
+    },
+    {
+        "letter": "थो",
+        "unicode": "\\u00B3"
+    },
+    {
+        "letter": "थौ",
+        "unicode": "\\u00B4"
+    },
+    {
+        "letter": "द",
+        "unicode": "\\u00B5"
+    },
+    {
+        "letter": "दा",
+        "unicode": "\\u00B6"
+    },
+    {
+        "letter": "दि",
+        "unicode": "\\u00B7"
+    },
+    {
+        "letter": "दी",
+        "unicode": "\\u00B8"
+    },
+    {
+        "letter": "दु",
+        "unicode": "\\u00B9"
+    },
+    {
+        "letter": "दू",
+        "unicode": "\\u00BA"
+    },
+    {
+        "letter": "दे",
+        "unicode": "\\u00BB"
+    },
+    {
+        "letter": "दै",
+        "unicode": "\\u00BC"
+    },
+    {
+        "letter": "दो",
+        "unicode": "\\u00BD"
+    },
+    {
+        "letter": "दौ",
+        "unicode": "\\u00BE"
+    },
+    {
+        "letter": "ध",
+        "unicode": "\\u00BF"
+    },
+    {
+        "letter": "धा",
+        "unicode": "\\u00C0"
+    },
+    {
+        "letter": "धि",
+        "unicode": "\\u00C1"
+    },
+    {
+        "letter": "धी",
+        "unicode": "\\u00C2"
+    },
+    {
+        "letter": "धु",
+        "unicode": "\\u00C3"
+    },
+    {
+        "letter": "धू",
+        "unicode": "\\u00C4"
+    },
+    {
+        "letter": "धे",
+        "unicode": "\\u00C5"
+    },
+    {
+        "letter": "धै",
+        "unicode": "\\u00C6"
+    },
+    {
+        "letter": "धो",
+        "unicode": "\\u00C7"
+    },
+    {
+        "letter": "धौ",
+        "unicode": "\\u00C8"
+    },
+    {
+        "letter": "न",
+        "unicode": "\\u00C9"
+    },
+    {
+        "letter": "ना",
+        "unicode": "\\u00CA"
+    },
+    {
+        "letter": "नि",
+        "unicode": "\\u00CB"
+    },
+    {
+        "letter": "नी",
+        "unicode": "\\u00CC"
+    },
+    {
+        "letter": "नु",
+        "unicode": "\\u00CD"
+    },
+    {
+        "letter": "नू",
+        "unicode": "\\u00CE"
+    },
+    {
+        "letter": "ने",
+        "unicode": "\\u00CF"
+    },
+    {
+        "letter": "नै",
+        "unicode": "\\u00D0"
+    },
+    {
+        "letter": "नो",
+        "unicode": "\\u00D1"
+    },
+    {
+        "letter": "नौ",
+        "unicode": "\\u00D2"
+    },
+    {
+        "letter": "प",
+        "unicode": "\\u00D3"
+    },
+    {
+        "letter": "पा",
+        "unicode": "\\u00D4"
+    },
+    {
+        "letter": "पि",
+        "unicode": "\\u00D5"
+    },
+    {
+        "letter": "पी",
+        "unicode": "\\u00D6"
+    },
+    {
+        "letter": "पु",
+        "unicode": "\\u00D7"
+    },
+    {
+        "letter": "पू",
+        "unicode": "\\u00D8"
+    },
+    {
+        "letter": "पे",
+        "unicode": "\\u00D9"
+    },
+    {
+        "letter": "पै",
+        "unicode": "\\u00DA"
+    },
+    {
+        "letter": "पो",
+        "unicode": "\\u00DB"
+    },
+    {
+        "letter": "पौ",
+        "unicode": "\\u00DC"
+    },
+    {
+        "letter": "फ",
+        "unicode": "\\u00DD"
+    },
+    {
+        "letter": "फा",
+        "unicode": "\\u00DE"
+    },
+    {
+        "letter": "फि",
+        "unicode": "\\u00DF"
+    },
+    {
+        "letter": "फी",
+        "unicode": "\\u00E0"
+    },
+    {
+        "letter": "फु",
+        "unicode": "\\u00E1"
+    },
+    {
+        "letter": "फू",
+        "unicode": "\\u00E2"
+    },
+    {
+        "letter": "फे",
+        "unicode": "\\u00E3"
+    },
+    {
+        "letter": "फै",
+        "unicode": "\\u00E4"
+    },
+    {
+        "letter": "फो",
+        "unicode": "\\u00E5"
+    },
+    {
+        "letter": "फौ",
+        "unicode": "\\u00E6"
+    },
+    {
+        "letter": "ब",
+        "unicode": "\\u00E7"
+    },
+    {
+        "letter": "बा",
+        "unicode": "\\u00E8"
+    },
+    {
+        "letter": "बि",
+        "unicode": "\\u00E9"
+    },
+    {
+        "letter": "बी",
+        "unicode": "\\u00EA"
+    },
+    {
+        "letter": "बु",
+        "unicode": "\\u00EB"
+    },
+    {
+        "letter": "बू",
+        "unicode": "\\u00EC"
+    },
+    {
+        "letter": "बे",
+        "unicode": "\\u00ED"
+    },
+    {
+        "letter": "बै",
+        "unicode": "\\u00EE"
+    },
+    {
+        "letter": "बो",
+        "unicode": "\\u00EF"
+    },
+    {
+        "letter": "बौ",
+        "unicode": "\\u00F0"
+    },
+    {
+        "letter": "भ",
+        "unicode": "\\u00F1"
+    },
+    {
+        "letter": "भा",
+        "unicode": "\\u00F2"
+    },
+    {
+        "letter": "भि",
+        "unicode": "\\u00F3"
+    },
+    {
+        "letter": "भी",
+        "unicode": "\\u00F4"
+    },
+    {
+        "letter": "भु",
+        "unicode": "\\u00F5"
+    },
+    {
+        "letter": "भू",
+        "unicode": "\\u00F6"
+    },
+    {
+        "letter": "भे",
+        "unicode": "\\u00F7"
+    },
+    {
+        "letter": "भै",
+        "unicode": "\\u00F8"
+    },
+    {
+        "letter": "भो",
+        "unicode": "\\u00F9"
+    },
+    {
+        "letter": "भौ",
+        "unicode": "\\u00FA"
+    },
+    {
+        "letter": "म",
+        "unicode": "\\u00FB"
+    },
+    {
+        "letter": "मा",
+        "unicode": "\\u00FC"
+    },
+    {
+        "letter": "मि",
+        "unicode": "\\u00FD"
+    },
+    {
+        "letter": "मी",
+        "unicode": "\\u00FE"
+    },
+    {
+        "letter": "मु",
+        "unicode": "\\u00FF"
+    },
+    {
+        "letter": "मू",
+        "unicode": "\\u0100"
+    },
+    {
+        "letter": "मे",
+        "unicode": "\\u0101"
+    },
+    {
+        "letter": "मै",
+        "unicode": "\\u0102"
+    },
+    {
+        "letter": "मो",
+        "unicode": "\\u0103"
+    },
+    {
+        "letter": "मौ",
+        "unicode": "\\u0104"
+    },
+    {
+        "letter": "य",
+        "unicode": "\\u0105"
+    },
+    {
+        "letter": "या",
+        "unicode": "\\u0106"
+    },
+    {
+        "letter": "यि",
+        "unicode": "\\u0107"
+    },
+    {
+        "letter": "यी",
+        "unicode": "\\u0108"
+    },
+    {
+        "letter": "यु",
+        "unicode": "\\u0109"
+    },
+    {
+        "letter": "यू",
+        "unicode": "\\u010A"
+    },
+    {
+        "letter": "ये",
+        "unicode": "\\u010B"
+    },
+    {
+        "letter": "यै",
+        "unicode": "\\u010C"
+    },
+    {
+        "letter": "यो",
+        "unicode": "\\u010D"
+    },
+    {
+        "letter": "यौ",
+        "unicode": "\\u010E"
+    },
+    {
+        "letter": "र",
+        "unicode": "\\u010F"
+    },
+    {
+        "letter": "रा",
+        "unicode": "\\u0110"
+    },
+    {
+        "letter": "रि",
+        "unicode": "\\u0111"
+    },
+    {
+        "letter": "री",
+        "unicode": "\\u0112"
+    },
+    {
+        "letter": "रु",
+        "unicode": "\\u0113"
+    },
+    {
+        "letter": "रू",
+        "unicode": "\\u0114"
+    },
+    {
+        "letter": "रे",
+        "unicode": "\\u0115"
+    },
+    {
+        "letter": "रै",
+        "unicode": "\\u0116"
+    },
+    {
+        "letter": "रो",
+        "unicode": "\\u0117"
+    },
+    {
+        "letter": "रौ",
+        "unicode": "\\u0118"
+    },
+    {
+        "letter": "ल",
+        "unicode": "\\u0119"
+    },
+    {
+        "letter": "ला",
+        "unicode": "\\u011A"
+    },
+    {
+        "letter": "लि",
+        "unicode": "\\u011B"
+    },
+    {
+        "letter": "ली",
+        "unicode": "\\u011C"
+    },
+    {
+        "letter": "लु",
+        "unicode": "\\u011D"
+    },
+    {
+        "letter": "लू",
+        "unicode": "\\u011E"
+    },
+    {
+        "letter": "ले",
+        "unicode": "\\u011F"
+    },
+    {
+        "letter": "लै",
+        "unicode": "\\u0120"
+    },
+    {
+        "letter": "लो",
+        "unicode": "\\u0121"
+    },
+    {
+        "letter": "लौ",
+        "unicode": "\\u0122"
+    },
+    {
+        "letter": "व",
+        "unicode": "\\u0123"
+    },
+    {
+        "letter": "वा",
+        "unicode": "\\u0124"
+    },
+    {
+        "letter": "वि",
+        "unicode": "\\u0125"
+    },
+    {
+        "letter": "वी",
+        "unicode": "\\u0126"
+    },
+    {
+        "letter": "वु",
+        "unicode": "\\u0127"
+    },
+    {
+        "letter": "वू",
+        "unicode": "\\u0128"
+    },
+    {
+        "letter": "वे",
+        "unicode": "\\u0129"
+    },
+    {
+        "letter": "वै",
+        "unicode": "\\u012A"
+    },
+    {
+        "letter": "वो",
+        "unicode": "\\u012B"
+    },
+    {
+        "letter": "वौ",
+        "unicode": "\\u012C"
+    },
+    {
+        "letter": "श",
+        "unicode": "\\u012D"
+    },
+    {
+        "letter": "शा",
+        "unicode": "\\u012E"
+    },
+    {
+        "letter": "शि",
+        "unicode": "\\u012F"
+    },
+    {
+        "letter": "शी",
+        "unicode": "\\u0130"
+    },
+    {
+        "letter": "शु",
+        "unicode": "\\u0131"
+    },
+    {
+        "letter": "शू",
+        "unicode": "\\u0132"
+    },
+    {
+        "letter": "शे",
+        "unicode": "\\u0133"
+    },
+    {
+        "letter": "शै",
+        "unicode": "\\u0134"
+    },
+    {
+        "letter": "शो",
+        "unicode": "\\u0135"
+    },
+    {
+        "letter": "शौ",
+        "unicode": "\\u0136"
+    },
+    {
+        "letter": "ष",
+        "unicode": "\\u0137"
+    },
+    {
+        "letter": "षा",
+        "unicode": "\\u0138"
+    },
+    {
+        "letter": "षि",
+        "unicode": "\\u0139"
+    },
+    {
+        "letter": "षी",
+        "unicode": "\\u013A"
+    },
+    {
+        "letter": "षु",
+        "unicode": "\\u013B"
+    },
+    {
+        "letter": "षू",
+        "unicode": "\\u013C"
+    },
+    {
+        "letter": "षे",
+        "unicode": "\\u013D"
+    },
+    {
+        "letter": "षै",
+        "unicode": "\\u013E"
+    },
+    {
+        "letter": "षो",
+        "unicode": "\\u013F"
+    },
+    {
+        "letter": "षौ",
+        "unicode": "\\u0140"
+    },
+    {
+        "letter": "स",
+        "unicode": "\\u0141"
+    },
+    {
+        "letter": "सा",
+        "unicode": "\\u0142"
+    },
+    {
+        "letter": "सि",
+        "unicode": "\\u0143"
+    },
+    {
+        "letter": "सी",
+        "unicode": "\\u0144"
+    },
+    {
+        "letter": "सु",
+        "unicode": "\\u0145"
+    },
+    {
+        "letter": "सू",
+        "unicode": "\\u0146"
+    },
+    {
+        "letter": "से",
+        "unicode": "\\u0147"
+    },
+    {
+        "letter": "सै",
+        "unicode": "\\u0148"
+    },
+    {
+        "letter": "सो",
+        "unicode": "\\u0149"
+    },
+    {
+        "letter": "सौ",
+        "unicode": "\\u014A"
+    },
+    {
+        "letter": "ह",
+        "unicode": "\\u014B"
+    },
+    {
+        "letter": "हा",
+        "unicode": "\\u014C"
+    },
+    {
+        "letter": "हि",
+        "unicode": "\\u014D"
+    },
+    {
+        "letter": "ही",
+        "unicode": "\\u014E"
+    },
+    {
+        "letter": "हु",
+        "unicode": "\\u014F"
+    },
+    {
+        "letter": "हू",
+        "unicode": "\\u0150"
+    },
+    {
+        "letter": "हे",
+        "unicode": "\\u0151"
+    },
+    {
+        "letter": "है",
+        "unicode": "\\u0152"
+    },
+    {
+        "letter": "हो",
+        "unicode": "\\u0153"
+    },
+    {
+        "letter": "हौ",
+        "unicode": "\\u0154"
+    },
+    {
+        "letter": "क्ष",
+        "unicode": "\\u0155"
+    },
+    {
+        "letter": "क्षा",
+        "unicode": "\\u0156"
+    },
+    {
+        "letter": "क्षि",
+        "unicode": "\\u0157"
+    },
+    {
+        "letter": "क्षी",
+        "unicode": "\\u0158"
+    },
+    {
+        "letter": "क्षु",
+        "unicode": "\\u0159"
+    },
+    {
+        "letter": "क्षू",
+        "unicode": "\\u015A"
+    },
+    {
+        "letter": "क्षे",
+        "unicode": "\\u015B"
+    },
+    {
+        "letter": "क्षै",
+        "unicode": "\\u015C"
+    },
+    {
+        "letter": "क्षो",
+        "unicode": "\\u015D"
+    },
+    {
+        "letter": "क्षौ",
+        "unicode": "\\u015E"
+    },
+    {
+        "letter": "त्र",
+        "unicode": "\\u015F"
+    },
+    {
+        "letter": "त्रा",
+        "unicode": "\\u0160"
+    },
+    {
+        "letter": "त्रि",
+        "unicode": "\\u0161"
+    },
+    {
+        "letter": "त्री",
+        "unicode": "\\u0162"
+    },
+    {
+        "letter": "त्रु",
+        "unicode": "\\u0163"
+    },
+    {
+        "letter": "त्रू",
+        "unicode": "\\u0164"
+    },
+    {
+        "letter": "त्रे",
+        "unicode": "\\u0165"
+    },
+    {
+        "letter": "त्रै",
+        "unicode": "\\u0166"
+    },
+    {
+        "letter": "त्रो",
+        "unicode": "\\u0167"
+    },
+    {
+        "letter": "त्रौ",
+        "unicode": "\\u0168"
+    },
+    {
+        "letter": "ज्ञ",
+        "unicode": "\\u0169"
+    },
+    {
+        "letter": "ज्ञा",
+        "unicode": "\\u016A"
+    },
+    {
+        "letter": "ज्ञि",
+        "unicode": "\\u016B"
+    },
+    {
+        "letter": "ज्ञी",
+        "unicode": "\\u016C"
+    },
+    {
+        "letter": "ज्ञु",
+        "unicode": "\\u016D"
+    },
+    {
+        "letter": "ज्ञू",
+        "unicode": "\\u016E"
+    },
+    {
+        "letter": "ज्ञे",
+        "unicode": "\\u016F"
+    },
+    {
+        "letter": "ज्ञै",
+        "unicode": "\\u0170"
+    },
+    {
+        "letter": "ज्ञो",
+        "unicode": "\\u0171"
+    },
+    {
+        "letter": "ज्ञौ",
+        "unicode": "\\u0172"
+    },
+    {
+        "letter": "०",
+        "unicode": "\\u0173"
+    },
+    {
+        "letter": "१",
+        "unicode": "\\u0174"
+    },
+    {
+        "letter": "२",
+        "unicode": "\\u0175"
+    },
+    {
+        "letter": "३",
+        "unicode": "\\u0176"
+    },
+    {
+        "letter": "४",
+        "unicode": "\\u0177"
+    },
+    {
+        "letter": "५",
+        "unicode": "\\u0178"
+    },
+    {
+        "letter": "६",
+        "unicode": "\\u0179"
+    },
+    {
+        "letter": "७",
+        "unicode": "\\u017A"
+    },
+    {
+        "letter": "८",
+        "unicode": "\\u017B"
+    },
+    {
+        "letter": "९",
+        "unicode": "\\u017C"
+    }
+]

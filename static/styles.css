@@ -5,24 +5,39 @@
     box-sizing: border-box;
 }
 
+:root {
+    --light-green: #8deba3;
+    --black: black;
+    --light-blue: #dcf3f6;
+    --white: white;
+    --shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 /* Body styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #fff;
+    margin: 0;
+    padding: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 /* Container styles */
 .container {
-    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+/* Box styles */
+.box {
+    background-color: var(--light-blue);
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    padding: 40px;
-    width: 400px;
+    padding: 50px;
 }
 
 /* Heading styles */
@@ -31,23 +46,20 @@ h1 {
     margin-bottom: 20px;
 }
 
-/* Form styles */
-form {
-    text-align: center;
-}
 
-label {
-    display: block;
-    margin-bottom: 10px;
-}
 
 input[type="text"] {
     width: calc(100% - 20px);
-    padding: 10px;
+    padding: 12px;
     font-size: 16px;
     margin-bottom: 20px;
     border: 1px solid #ccc;
-    border-radius: 4px;
+    border-radius: 15px;
+    transition: border-color 0.3s ease-in-out;
+}
+
+input[type="text"]:focus {
+    border-color: #007bff;
 }
 
 input[type="submit"] {
@@ -57,24 +69,22 @@ input[type="submit"] {
     background-color: #007bff;
     color: #fff;
     border: none;
-    border-radius: 4px;
+    border-radius: 15px;
     cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
 }
 
 input[type="submit"]:hover {
     background-color: #0056b3;
 }
 
-/* Greeting message styles */
-p {
+/* Highlighted message styles */
+.highlight {
     text-align: center;
-    margin-top: 20px;
-}
-
-/* Highlighted data */
-.highlight p {
-    background-color: #d4edda;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #8deba3;
     padding: 10px;
     border-radius: 4px;
+    color: #1e572b;
     margin-top: 20px;
 }

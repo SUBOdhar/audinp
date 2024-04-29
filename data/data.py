@@ -12,7 +12,7 @@ def create_table():
     conn = sqlite3.connect(DB_file_path)
     c = conn.cursor()
     c.execute(
-        '''CREATE TABLE IF NOT EXISTS data (id INTEGER PRIMARY KEY, value TEXT)''')
+        '''CREATE TABLE IF NOT EXISTS data (id INTEGER PRIMARY KEY, value TEXT,type TEXT, meaning TEXT)''')
     conn.commit()
     conn.close()
 

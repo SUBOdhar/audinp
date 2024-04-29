@@ -14,21 +14,25 @@ html_content = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flask App with Input Box</title>
+    <title>Audinp-Data Adder</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
-    <h1>Welcome to Audinp</h1>
-    <form method="POST" autocomplete="off">
-        <label for="name">Enter data in Nepali:</label>
-        <input type="text" id="name" name="name">
-        <input type="submit" value="Submit">
-    </form>
-   <div class="highlight">
-    {% if message %}
-        <p>{{ message }}</p>
-    {% endif %}
-   </div>
+<div class="container">
+        <div class="box">
+            <h1>Welcome to Audinp</h1>
+            <p>Enter data in Nepali:</p>
+            <form method="POST" autocomplete="off">
+                <input type="text" id="name" name="name" placeholder="Enter your data" required>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+        <div class="box highlight">
+            {% if message %}
+                <p>{{ message }}</p>
+            {% endif %}
+        </div>
+    </div>
 </body>
 </html>
 """

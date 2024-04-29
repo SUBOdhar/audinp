@@ -1,0 +1,5 @@
+pydub
+pygame
+flask
+request
+sqlite3

@@ -1,3 +1,12 @@
-#Sound model
-redesigning the nepali sound model form begening
-also the nepali word data sheet from the begning
+# Nepali Language Model
+
+This project aims to develop a language model specifically tailored for the Nepali language. The model will be capable of understanding Nepali text, generating new Nepali text, and potentially performing other natural language processing tasks.
+
+## Project Structure
+
+- **data_Collector/**: Contains a data colletor.
+- **examples/**: Example scripts and notebooks demonstrating how to use the language model.
+
+```bash
+pip install -r requirements.txt
+```

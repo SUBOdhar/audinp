@@ -7,6 +7,14 @@ This project aims to develop a language model specifically tailored for the Nepa
 - **data_Collector/**: Contains a data colletor.
 - **examples/**: Example scripts and notebooks demonstrating how to use the language model.
 
+### Installing the requirements
+
 ```bash
 pip install -r requirements.txt
+```
+
+###Running it
+
+```
+python web.py
 ```

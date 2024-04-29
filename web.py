@@ -1,9 +1,13 @@
 from flask import Flask, render_template_string, request
+from data.data import create_table, insert_data, check_existing_data
+from unicode.cnv import is_nepali
+import engine.engine as engi
 
-# Create a Flask application instance
+# Your Flask application code remains the same
 app = Flask(__name__)
 
-# Define the HTML content with the input box
+
+# HTML template remains the same as well
 html_content = """
 <!DOCTYPE html>
 <html lang="en">
@@ -16,34 +20,51 @@ html_content = """
 <body>
     <h1>Welcome to Audinp</h1>
     <form method="POST" autocomplete="off">
-        <label for="name">Enter  data in neplai:</label>
+        <label for="name">Enter data in Nepali:</label>
         <input type="text" id="name" name="name">
         <input type="submit" value="Submit">
     </form>
    <div class="highlight">
-    {% if name %}
-        <p>Hello, {{ name }}!</p>
+    {% if message %}
+        <p>{{ message }}</p>
     {% endif %}
    </div>
 </body>
 </html>
 """
 
-# Define a route to render the HTML page with an input box
+# Route to handle both GET and POST requests remains the same
 
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    # Check if a POST request with form data is received
+    # Create the table if not exists
+    create_table()
+
     if request.method == 'POST':
-        # Get the value entered in the input box named 'name'
-        user_name = request.form['name']
-        # Render the HTML template with the personalized greeting message
-        return render_template_string(html_content, name="Data added successfully")
-    # Render the HTML template with an empty input box
-    return render_template_string(html_content, name='')
+        user_data = request.form['name']
+        if len(user_data) != 0:
+            if not is_nepali(user_data):
+                message = "Please enter data in Nepali!"
+            else:
+                # Convert Nepali data to Unicode
+                unicode_data = engi.split_convert_to_unicode(user_data)
+                if unicode_data is None:
+                    message = "Could not convert data to Unicode!"
+                else:
+                    # Check if the data already exists in the database
+                    if check_existing_data(unicode_data):
+                        message = "Data already exists!"
+                    else:
+                        # Insert the data into the database
+                        insert_data(unicode_data)
+                        message = "Data added successfully!"
+        else:
+            message = "Field is empty"
+        return render_template_string(html_content, message=message)
+    return render_template_string(html_content, message='')
 
 
-# Run the Flask application
+# Main entry point remains the same
 if __name__ == '__main__':
     app.run(debug=True)

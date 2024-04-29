@@ -1,5 +1,4 @@
 pydub
 pygame
-flask
-request
-sqlite3
+Flask
+requests

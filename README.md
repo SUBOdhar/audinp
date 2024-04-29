@@ -13,8 +13,8 @@ This project aims to develop a language model specifically tailored for the Nepa
 pip install -r requirements.txt
 ```
 
-###Running it
+### Running it
 
-```
+```bash
 python web.py
 ```

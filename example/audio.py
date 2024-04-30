@@ -1,23 +1,27 @@
 import pygame
-from audsrc import *
+import os
 from audengin import *
-nepali_letters = ['अ', 'आ', 'इ', 'ई', 'उ', 'ऊ', 'ऋ', 'ए', 'ऐ', 'ओ', 'औ', 'अं', 'अः', 'क', 'ख', 'ग', 'घ', 'ङ', 'च', 'छ', 'ज',
-                  'झ', 'ञ', 'ट', 'ठ', 'ड', 'ढ', 'ण', 'त', 'थ', 'द', 'ध', 'न', 'प', 'फ', 'ब', 'भ', 'म', 'य', 'र', 'ल', 'व', 'श', 'ष', 'स', 'ह']
+from audsrc import *
+# Database file path
+current_dir = os.path.dirname(os.path.abspath(__file__))
+temp_file_path = os.path.join(current_dir, "temp", "temp.wav")
 
 # Initialize pygame
 pygame.init()
 
-# Load the combined audio
+# Initialize mixer
 pygame.mixer.init()
-pygame.mixer.music.load(
-    r"C:\Users\aryal\OneDrive\Desktop\voice model\v1\temp\combined_temp.wav")
+
+# Load the combined audio
+pygame.mixer.music.load(temp_file_path)
 
 # Play the combined audio
 pygame.mixer.music.play()
 
 # Wait for the sound to finish playing
+clock = pygame.time.Clock()
 while pygame.mixer.music.get_busy():
-    pygame.time.Clock().tick(10)
+    clock.tick(100000)
 
 # Clean up pygame
 pygame.quit()

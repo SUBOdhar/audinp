@@ -40,7 +40,7 @@ def check_existing_data(value):
 # Function to display all data in the database (for debugging purposes)
 
 
-def display_data():
+def get_data():
     conn = sqlite3.connect(DB_file_path)
     c = conn.cursor()
     c.execute("SELECT * FROM data")
